@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/7eabcb4d-3269-4b25-aaea-ffb054bc9468/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/my-new-node",
+    "appService.deploySubpath": "Learn\\Express_Server"
+}
